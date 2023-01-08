@@ -1,2 +1,2 @@
 # caesarscipher
-This program is use to decrypt and encrypt plain messages. 
+Caesar cipher is a straightforward form of message encoding. Caesar ciphers employ a substitution approach in which the alphabetic characters are moved a predetermined number of times to produce an encoding alphabet. An A would be encoded as a B in a Caesar cipher with a 1 shift, a M as an N, a Z as an A, etc. This program only shift letter once and has a simple straightforward feature that is enough for school project. 
